@@ -1,5 +1,5 @@
 #!/bin/bash      
-
+#This shows the transaction between buyer1 and buyer2
 echo "Please enter your name"
 read name
 echo "Your name is: " $name
